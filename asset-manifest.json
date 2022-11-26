@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PTD01/easy-shopping-app.git/static/css/main.7d564b2a.css",
+    "main.js": "/PTD01/easy-shopping-app.git/static/js/main.0ae56482.js",
+    "static/media/hero.webp": "/PTD01/easy-shopping-app.git/static/media/hero.78c31751cb777ccaed84.webp",
+    "index.html": "/PTD01/easy-shopping-app.git/index.html",
+    "main.7d564b2a.css.map": "/PTD01/easy-shopping-app.git/static/css/main.7d564b2a.css.map",
+    "main.0ae56482.js.map": "/PTD01/easy-shopping-app.git/static/js/main.0ae56482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d564b2a.css",
+    "static/js/main.0ae56482.js"
+  ]
+}
